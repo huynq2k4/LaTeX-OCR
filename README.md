@@ -7,7 +7,9 @@ This is the project for the course "Neuroscience" (INT3421 55).
 ## Team member
 
 Nguyen Quang Huy - 22028077 (leader)
+
 Nguyen Thanh Dao - 22028113
+
 Nguyen Phuong Anh - 22028332
 
 ## Project structure
