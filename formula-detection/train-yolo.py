@@ -119,7 +119,5 @@ if __name__ == "__main__":
         config = yaml.load(f, Loader=yaml.FullLoader)
 
     reformat_dataset()
-
     train_yolo()
-
     evaluate_yolo()
