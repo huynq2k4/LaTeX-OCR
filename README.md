@@ -39,7 +39,7 @@ LaTex OCR
 
 ## Installation
 
-Download the dataset in this [link](https://www.kaggle.com/datasets/huynq2k4/latex-ocr). Add the dataset into the folder and make sure to set the name correctly following the given structure.
+Download the dataset in this [link]([https://www.kaggle.com/datasets/huynq2k4/latex-ocr](https://www.kaggle.com/datasets/staticpunch/dataset-100k-images-trocr)). Add the dataset into the folder and make sure to set the name correctly following the given structure.
 
 Train the model by running the following line:
 
