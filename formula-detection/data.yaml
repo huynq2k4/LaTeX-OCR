@@ -1,0 +1,6 @@
+names:
+  0: formula
+nc: 1
+path: /process
+train: /process/images/train
+val: /process/images/valid

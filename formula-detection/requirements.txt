@@ -1,0 +1,3 @@
+ultralytics
+ray[tune]
+opencv-python
